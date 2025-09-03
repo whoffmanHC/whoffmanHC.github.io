@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
-    url: blog
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/wm-hoffman/
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Website
+    url: https://www.linkedin.com/in/wm-hoffman/
 
 project_entries:
   - title: Project 1
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Will's homepage
     url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Instagram
+    url: https://Instagram.com/HillWoffman
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/whoffmanHC
 
   - title: feed
     url: feed.xml
